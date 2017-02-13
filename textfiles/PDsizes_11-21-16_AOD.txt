@@ -1,0 +1,161 @@
+PADTrack1
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 682
+nevents  : 26597221
+nblocks  : 9
+nlumis   : 1629
+file_size: 2061887074161
+PADTrack2
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 1
+nevents  : 1
+nblocks  : 1
+nlumis   : 1
+file_size: 1
+PADoubleMuon
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 331
+nevents  : 10295282
+nblocks  : 9
+nlumis   : 3328
+file_size: 1035636824650
+PAEGJet1
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 230
+nevents  : 8608990
+nblocks  : 9
+nlumis   : 1629
+file_size: 767171751408
+PAForward
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 45
+nevents  : 2215059
+nblocks  : 10
+nlumis   : 1977
+file_size: 65229807095
+PAHighMultiplicity0
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 419
+nevents  : 12832373
+nblocks  : 3
+nlumis   : 1237
+file_size: 1328172685476
+PAHighMultiplicity1
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 102
+nevents  : 2179281
+nblocks  : 3
+nlumis   : 1237
+file_size: 313319547348
+PAHighMultiplicity2
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 101
+nevents  : 2178682
+nblocks  : 3
+nlumis   : 1237
+file_size: 313201610392
+PAHighMultiplicity3
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 101
+nevents  : 2178958
+nblocks  : 3
+nlumis   : 1237
+file_size: 313375642987
+PAHighMultiplicity4
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 100
+nevents  : 2176200
+nblocks  : 3
+nlumis   : 1237
+file_size: 312820225720
+PAHighMultiplicity5
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 101
+nevents  : 2177578
+nblocks  : 3
+nlumis   : 1237
+file_size: 312944938398
+PAHighMultiplicity6
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 102
+nevents  : 2178937
+nblocks  : 3
+nlumis   : 1237
+file_size: 313252560532
+PAHighMultiplicity7
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 143
+nevents  : 2658858
+nblocks  : 3
+nlumis   : 1237
+file_size: 424140052026
+PAMinimumBias1
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 211
+nevents  : 14570596
+nblocks  : 14
+nlumis   : 2156
+file_size: 651584543400
+PAMinimumBias2
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 215
+nevents  : 14571942
+nblocks  : 15
+nlumis   : 2156
+file_size: 651323045035
+PAMinimumBias3
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 187
+nevents  : 14571521
+nblocks  : 3
+nlumis   : 1238
+file_size: 651094833123
+PAMinimumBias4
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 189
+nevents  : 14572446
+nblocks  : 3
+nlumis   : 1238
+file_size: 651111097832
+PAMinimumBias5
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 188
+nevents  : 14569752
+nblocks  : 4
+nlumis   : 1238
+file_size: 651052432600
+PAMinimumBias6
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 186
+nevents  : 14572150
+nblocks  : 3
+nlumis   : 1238
+file_size: 651517661929
+PAMinimumBias7
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 515
+nevents  : 41241697
+nblocks  : 4
+nlumis   : 2716
+file_size: 1826777257555
+PAMinimumBias8
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 523
+nevents  : 41239584
+nblocks  : 4
+nlumis   : 2716
+file_size: 1826069129673
+PAMinimumBiasBkg
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 206
+nevents  : 14252497
+nblocks  : 15
+nlumis   : 2156
+file_size: 632315169386
+PASingleMuon
+Showing 1-10 out of 1 results, for more results use --idx/--limit options
+nfiles   : 209
+nevents  : 5896879
+nblocks  : 10
+nlumis   : 1747
+file_size: 543300501897

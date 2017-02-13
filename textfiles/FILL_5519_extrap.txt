@@ -1,0 +1,49 @@
+NEWJSONRUN  5519 
+Will count events by Datasets
+Counting between runs 285479 and 285483, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	0.0349	 (nb-1)
+
+AlCaLumiPixels	36117840	
+AlCaP0	1084276	
+AlCaPhiSym	2697634	
+EcalLaser	1861650	
+EventDisplay	22493	
+ExpressPhysicsPA	5628237	
+HLTMonitorPA	5197072	
+HLTPhysics	91244	
+HcalNZS	124	
+OnlineMonitor	63366764	
+PACastor	666888	
+PADTrack1	11530132	
+PADTrack2	0	
+PADoubleMuon	27351	
+PAEGJet1	773220	
+PAEmptyBX	492085	
+PAForward	53246	
+PAHighMultiplicity0	4363059	
+PAHighMultiplicity1	44438	
+PAHighMultiplicity2	44569	
+PAHighMultiplicity3	44489	
+PAHighMultiplicity4	44068	
+PAHighMultiplicity5	44542	
+PAHighMultiplicity6	44483	
+PAHighMultiplicity7	54281	
+PAMinimumBias1	7648469	
+PAMinimumBias2	7648796	
+PAMinimumBias3	7648810	
+PAMinimumBias4	7649636	
+PAMinimumBias5	7646346	
+PAMinimumBias6	7649421	
+PAMinimumBias7	7649489	
+PAMinimumBias8	7649200	
+PAMinimumBiasBkg	7978213	
+PASingleMuon	150926	
+RPCMonitor	63540	
+TestEnablesEcalHcal	1861650	
+TestEnablesEcalHcalDQM	1861650	
+ZeroBias	1345371	
+ 
+ENDOFFILEJASON

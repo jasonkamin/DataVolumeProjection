@@ -1,0 +1,527 @@
+NEWJSONRUN  5519 
+Will count events by Datasets
+Counting between runs 285479 and 285483, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	0.0349	 (nb-1)
+
+AlCaLumiPixels	36117840	
+AlCaP0	1084276	
+AlCaPhiSym	2697634	
+EcalLaser	1861650	
+EventDisplay	22493	
+ExpressPhysicsPA	5628237	
+HLTMonitorPA	5197072	
+HLTPhysics	91244	
+HcalNZS	124	
+OnlineMonitor	63366764	
+PACastor	666888	
+PADTrack1	11530132	
+PADTrack2	0	
+PADoubleMuon	27351	
+PAEGJet1	773220	
+PAEmptyBX	492085	
+PAForward	53246	
+PAHighMultiplicity0	4363059	
+PAHighMultiplicity1	44438	
+PAHighMultiplicity2	44569	
+PAHighMultiplicity3	44489	
+PAHighMultiplicity4	44068	
+PAHighMultiplicity5	44542	
+PAHighMultiplicity6	44483	
+PAHighMultiplicity7	54281	
+PAMinimumBias1	7648469	
+PAMinimumBias2	7648796	
+PAMinimumBias3	7648810	
+PAMinimumBias4	7649636	
+PAMinimumBias5	7646346	
+PAMinimumBias6	7649421	
+PAMinimumBias7	7649489	
+PAMinimumBias8	7649200	
+PAMinimumBiasBkg	7978213	
+PASingleMuon	150926	
+RPCMonitor	63540	
+TestEnablesEcalHcal	1861650	
+TestEnablesEcalHcalDQM	1861650	
+ZeroBias	1345371	
+NEWJSONRUN  5520 
+Will count events by Datasets
+Counting between runs 285505 and 285505, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	1.73	 (nb-1)
+
+AlCaLumiPixels	17697919	
+AlCaP0	10453763	
+AlCaPhiSym	5839358	
+EcalLaser	1003574	
+EventDisplay	1102451	
+ExpressPhysicsPA	9103221	
+HLTMonitorPA	10418817	
+HLTPhysics	69579	
+HcalNZS	121	
+OnlineMonitor	99497121	
+PACastor	980227	
+PADTrack1	14900180	
+PADTrack2	0	
+PADoubleMuon	1335530	
+PAEGJet1	7506525	
+PAEmptyBX	600404	
+PAForward	1982690	
+PAHighMultiplicity0	8381218	
+PAHighMultiplicity1	2114427	
+PAHighMultiplicity2	2112577	
+PAHighMultiplicity3	2113901	
+PAHighMultiplicity4	2111158	
+PAHighMultiplicity5	2110441	
+PAHighMultiplicity6	2114780	
+PAHighMultiplicity7	2579094	
+PAMinimumBias1	6843284	
+PAMinimumBias2	6843538	
+PAMinimumBias3	6841797	
+PAMinimumBias4	6841327	
+PAMinimumBias5	6842568	
+PAMinimumBias6	6843571	
+PAMinimumBias7	6844260	
+PAMinimumBias8	6842245	
+PAMinimumBiasBkg	6089336	
+PASingleMuon	5674659	
+RPCMonitor	2844198	
+TestEnablesEcalHcal	1003574	
+TestEnablesEcalHcalDQM	1003574	
+ZeroBias	697546	
+NEWJSONRUN  5521 
+Will count events by Datasets
+Counting between runs 285517 and 285517, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	9.99	 (nb-1)
+
+AlCaLumiPixels	63909232	
+AlCaP0	52903254	
+AlCaPhiSym	14928780	
+EcalLaser	3435968	
+EventDisplay	7176440	
+ExpressPhysicsPA	36152666	
+HLTMonitorPA	37556210	
+HLTPhysics	282323	
+HcalNZS	671	
+OnlineMonitor	401142462	
+PACastor	5758252	
+PADTrack1	57679453	
+PADTrack2	0	
+PADoubleMuon	8692670	
+PAEGJet1	31587124	
+PAEmptyBX	1701565	
+PAForward	13550938	
+PAHighMultiplicity0	31809614	
+PAHighMultiplicity1	5329651	
+PAHighMultiplicity2	5338807	
+PAHighMultiplicity3	5338005	
+PAHighMultiplicity4	5339158	
+PAHighMultiplicity5	5338040	
+PAHighMultiplicity6	5336362	
+PAHighMultiplicity7	16307392	
+PAMinimumBias1	26639101	
+PAMinimumBias2	26642395	
+PAMinimumBias3	26645866	
+PAMinimumBias4	26644917	
+PAMinimumBias5	26644116	
+PAMinimumBias6	26645875	
+PAMinimumBias7	26647162	
+PAMinimumBias8	26642707	
+PAMinimumBiasBkg	19694384	
+PASingleMuon	25938238	
+RPCMonitor	18705522	
+TestEnablesEcalHcal	3435968	
+TestEnablesEcalHcalDQM	3435968	
+ZeroBias	2397471	
+NEWJSONRUN  5522 
+Will count events by Datasets
+Counting between runs 285530 and 285530, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	12.3	 (nb-1)
+
+AlCaLumiPixels	64398094	
+AlCaP0	46798327	
+AlCaPhiSym	16523203	
+EcalLaser	3399858	
+EventDisplay	8825446	
+ExpressPhysicsPA	36769870	
+HLTMonitorPA	43473871	
+HLTPhysics	303704	
+HcalNZS	724	
+OnlineMonitor	435387127	
+PACastor	6796157	
+PADTrack1	46266352	
+PADTrack2	25193475	
+PADoubleMuon	10725896	
+PAEGJet1	40202430	
+PAEmptyBX	1688534	
+PAForward	16042390	
+PAHighMultiplicity0	31927326	
+PAHighMultiplicity1	5597577	
+PAHighMultiplicity2	5597575	
+PAHighMultiplicity3	5600475	
+PAHighMultiplicity4	5598297	
+PAHighMultiplicity5	5600078	
+PAHighMultiplicity6	5598968	
+PAHighMultiplicity7	17333439	
+PAMinimumBias1	27288835	
+PAMinimumBias2	27288037	
+PAMinimumBias3	27287911	
+PAMinimumBias4	27287575	
+PAMinimumBias5	27285055	
+PAMinimumBias6	27286643	
+PAMinimumBias7	27285848	
+PAMinimumBias8	27283245	
+PAMinimumBiasBkg	21842879	
+PASingleMuon	28288529	
+RPCMonitor	22976168	
+TestEnablesEcalHcal	3399858	
+TestEnablesEcalHcalDQM	3399858	
+ZeroBias	2387573	
+NEWJSONRUN  5523 
+Will count events by Datasets
+Counting between runs 285537 and 285539, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	10.3	 (nb-1)
+
+AlCaLumiPixels	47509245	
+AlCaP0	36538171	
+AlCaPhiSym	13491464	
+EcalLaser	2503622	
+EventDisplay	7305403	
+ExpressPhysicsPA	33418341	
+HLTMonitorPA	32106340	
+HLTPhysics	262629	
+HcalNZS	461	
+OnlineMonitor	325490146	
+PACastor	5443693	
+PADTrack1	34882530	
+PADTrack2	18714304	
+PADoubleMuon	8926293	
+PAEGJet1	30307630	
+PAEmptyBX	1239526	
+PAForward	12842406	
+PAHighMultiplicity0	23885466	
+PAHighMultiplicity1	8393360	
+PAHighMultiplicity2	8384707	
+PAHighMultiplicity3	8390379	
+PAHighMultiplicity4	8390198	
+PAHighMultiplicity5	8389271	
+PAHighMultiplicity6	8391878	
+PAHighMultiplicity7	3596701	
+PAMinimumBias1	20257173	
+PAMinimumBias2	20259088	
+PAMinimumBias3	20260741	
+PAMinimumBias4	20258005	
+PAMinimumBias5	20260307	
+PAMinimumBias6	20256396	
+PAMinimumBias7	20256151	
+PAMinimumBias8	20255662	
+PAMinimumBiasBkg	16855210	
+PASingleMuon	22163023	
+RPCMonitor	19042492	
+TestEnablesEcalHcal	2503622	
+TestEnablesEcalHcalDQM	2503622	
+ZeroBias	1753643	
+NEWJSONRUN  5524 
+Will count events by Datasets
+Counting between runs 285549 and 285549, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	3.76	 (nb-1)
+
+AlCaLumiPixels	13194151	
+AlCaP0	11270349	
+AlCaPhiSym	4781813	
+EcalLaser	696899	
+EventDisplay	2694305	
+ExpressPhysicsPA	9864373	
+HLTMonitorPA	9421032	
+HLTPhysics	74835	
+HcalNZS	141	
+OnlineMonitor	94721312	
+PACastor	1990221	
+PADTrack1	10005736	
+PADTrack2	5284298	
+PADoubleMuon	3298915	
+PAEGJet1	9514052	
+PAEmptyBX	343614	
+PAForward	4054447	
+PAHighMultiplicity0	6795724	
+PAHighMultiplicity1	1850430	
+PAHighMultiplicity2	1852656	
+PAHighMultiplicity3	1851866	
+PAHighMultiplicity4	1850178	
+PAHighMultiplicity5	1853058	
+PAHighMultiplicity6	1849395	
+PAHighMultiplicity7	1368151	
+PAMinimumBias1	5588112	
+PAMinimumBias2	5589343	
+PAMinimumBias3	5586962	
+PAMinimumBias4	5588264	
+PAMinimumBias5	5587948	
+PAMinimumBias6	5587590	
+PAMinimumBias7	5588531	
+PAMinimumBias8	5588564	
+PAMinimumBiasBkg	5242657	
+PASingleMuon	6762719	
+RPCMonitor	6966216	
+TestEnablesEcalHcal	696899	
+TestEnablesEcalHcalDQM	696899	
+ZeroBias	487398	
+NEWJSONRUN  5526 
+Will count events by Datasets
+Counting between runs 285684 and 285684, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	5.36	 (nb-1)
+
+AlCaLumiPixels	50899587	
+AlCaP0	32092635	
+AlCaPhiSym	13473648	
+EcalLaser	2576013	
+EventDisplay	3820618	
+ExpressPhysicsPA	26733529	
+HLTMonitorPA	34241837	
+HLTPhysics	247510	
+HcalNZS	481	
+OnlineMonitor	322850482	
+PACastor	2780010	
+PADTrack1	33754246	
+PADTrack2	18626622	
+PADoubleMuon	4559232	
+PAEGJet1	29417429	
+PAEmptyBX	1281070	
+PAForward	6852677	
+PAHighMultiplicity0	23860230	
+PAHighMultiplicity1	7136328	
+PAHighMultiplicity2	7137556	
+PAHighMultiplicity3	7135341	
+PAHighMultiplicity4	7135420	
+PAHighMultiplicity5	7138572	
+PAHighMultiplicity6	7132007	
+PAHighMultiplicity7	1874621	
+PAMinimumBias1	23001754	
+PAMinimumBias2	23001253	
+PAMinimumBias3	22998711	
+PAMinimumBias4	22997781	
+PAMinimumBias5	22999298	
+PAMinimumBias6	23001003	
+PAMinimumBias7	23000239	
+PAMinimumBias8	22999940	
+PAMinimumBiasBkg	16645335	
+PASingleMuon	17392808	
+RPCMonitor	9759237	
+TestEnablesEcalHcal	2576013	
+TestEnablesEcalHcalDQM	2576013	
+ZeroBias	1793276	
+NEWJSONRUN  5527 
+Will count events by Datasets
+Counting between runs 285718 and 285726, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	6.15	 (nb-1)
+
+AlCaLumiPixels	34672727	
+AlCaP0	22546075	
+AlCaPhiSym	8027428	
+EcalLaser	1519197	
+EventDisplay	4377753	
+ExpressPhysicsPA	20905284	
+HLTMonitorPA	20701464	
+HLTPhysics	168917	
+HcalNZS	265	
+OnlineMonitor	245323218	
+PACastor	3152482	
+PADTrack1	21127116	
+PADTrack2	11254831	
+PADoubleMuon	5250323	
+PAEGJet1	19914705	
+PAEmptyBX	751545	
+PAForward	7534492	
+PAHighMultiplicity0	14435746	
+PAHighMultiplicity1	5842588	
+PAHighMultiplicity2	5847293	
+PAHighMultiplicity3	5846139	
+PAHighMultiplicity4	5848170	
+PAHighMultiplicity5	5843042	
+PAHighMultiplicity6	5842464	
+PAHighMultiplicity7	2146996	
+PAMinimumBias1	18154677	
+PAMinimumBias2	18154151	
+PAMinimumBias3	18150480	
+PAMinimumBias4	18149705	
+PAMinimumBias5	18149749	
+PAMinimumBias6	18151836	
+PAMinimumBias7	18152640	
+PAMinimumBias8	18155775	
+PAMinimumBiasBkg	10235323	
+PASingleMuon	13907202	
+RPCMonitor	11323792	
+TestEnablesEcalHcal	1519197	
+TestEnablesEcalHcalDQM	1519197	
+ZeroBias	1063547	
+NEWJSONRUN  5528 
+Will count events by Datasets
+Counting between runs 285739 and 285739, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	0	 (nb-1)
+
+NEWJSONRUN  5533 
+Will count events by Datasets
+Counting between runs 285749 and 285750, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	11	 (nb-1)
+
+AlCaLumiPixels	62696507	
+AlCaP0	40519069	
+AlCaPhiSym	14577444	
+EcalLaser	2839288	
+EventDisplay	7928193	
+ExpressPhysicsPA	37337496	
+HLTMonitorPA	37418624	
+HLTPhysics	303631	
+HcalNZS	540	
+OnlineMonitor	455583514	
+PACastor	5581309	
+PADTrack1	38247545	
+PADTrack2	20552565	
+PADoubleMuon	9550707	
+PAEGJet1	36139496	
+PAEmptyBX	1407186	
+PAForward	36175508	
+PAHighMultiplicity0	26244669	
+PAHighMultiplicity1	10014750	
+PAHighMultiplicity2	10019724	
+PAHighMultiplicity3	10014312	
+PAHighMultiplicity4	10013560	
+PAHighMultiplicity5	10015706	
+PAHighMultiplicity6	10018356	
+PAHighMultiplicity7	3880870	
+PAMinimumBias1	31765891	
+PAMinimumBias2	31762132	
+PAMinimumBias3	31759173	
+PAMinimumBias4	31764837	
+PAMinimumBias5	31760394	
+PAMinimumBias6	31759700	
+PAMinimumBias7	31761014	
+PAMinimumBias8	31761730	
+PAMinimumBiasBkg	19873194	
+PASingleMuon	24790886	
+RPCMonitor	20443739	
+TestEnablesEcalHcal	2839288	
+TestEnablesEcalHcalDQM	2839288	
+ZeroBias	1989745	
+NEWJSONRUN  5534 
+Will count events by Datasets
+Counting between runs 285759 and 285759, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	4.34	 (nb-1)
+
+AlCaLumiPixels	24641132	
+AlCaP0	13771353	
+AlCaPhiSym	6389208	
+EcalLaser	909673	
+EventDisplay	3083349	
+ExpressPhysicsPA	12876616	
+HLTMonitorPA	12120031	
+HLTPhysics	99073	
+HcalNZS	232	
+OnlineMonitor	187460432	
+PACastor	2210866	
+PADTrack1	12665427	
+PADTrack2	6716990	
+PADoubleMuon	3737434	
+PAEGJet1	12333663	
+PAEmptyBX	453416	
+PAForward	13155527	
+PAHighMultiplicity0	8676959	
+PAHighMultiplicity1	3084194	
+PAHighMultiplicity2	3083823	
+PAHighMultiplicity3	3083238	
+PAHighMultiplicity4	3083652	
+PAHighMultiplicity5	3084893	
+PAHighMultiplicity6	3087014	
+PAHighMultiplicity7	1554986	
+PAMinimumBias1	14727109	
+PAMinimumBias2	14724468	
+PAMinimumBias3	14728719	
+PAMinimumBias4	14728708	
+PAMinimumBias5	14725079	
+PAMinimumBias6	14727407	
+PAMinimumBias7	14724988	
+PAMinimumBias8	14725696	
+PAMinimumBiasBkg	7012906	
+PASingleMuon	8517261	
+RPCMonitor	7875608	
+TestEnablesEcalHcal	909673	
+TestEnablesEcalHcalDQM	909673	
+ZeroBias	637354	
+NEWJSONRUN  5538 
+Will count events by Datasets
+Counting between runs 285832 and 285832, according to the JSON file /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles/
+
+0 0
+Integrated luminosity	0.636	 (nb-1)
+
+AlCaLumiPixels	78072617	
+AlCaP0	7212684	
+AlCaPhiSym	2034008	
+EcalLaser	3451916	
+EventDisplay	436115	
+ExpressPhysicsPA	38587388	
+HLTMonitorPA	38417697	
+HLTPhysics	574328	
+HcalNZS	288	
+OnlineMonitor	684521378	
+PACastor	338477	
+PADTrack1	34705029	
+PADTrack2	26627425	
+PADoubleMuon	684913	
+PAEGJet1	8444311	
+PAEmptyBX	1709296	
+PAForward	12496118	
+PAHighMultiplicity0	27553501	
+PAHighMultiplicity1	557891	
+PAHighMultiplicity2	557912	
+PAHighMultiplicity3	557815	
+PAHighMultiplicity4	557865	
+PAHighMultiplicity5	557903	
+PAHighMultiplicity6	556553	
+PAHighMultiplicity7	216398	
+PAMinimumBias1	81283425	
+PAMinimumBias2	81282104	
+PAMinimumBias3	81287895	
+PAMinimumBias4	81284287	
+PAMinimumBias5	81281631	
+PAMinimumBias6	81273918	
+PAMinimumBias7	81274704	
+PAMinimumBias8	81278972	
+PAMinimumBiasBkg	22869810	
+PASingleMuon	2145986	
+RPCMonitor	1655331	
+TestEnablesEcalHcal	3451916	
+TestEnablesEcalHcalDQM	3451916	
+ZeroBias	22364443	
+ 
+ENDOFFILEJASON
